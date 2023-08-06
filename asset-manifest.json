@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dewasedimple/tictactoe.git/static/css/main.93791221.css",
+    "main.js": "/dewasedimple/tictactoe.git/static/js/main.b292f51c.js",
+    "static/js/787.6b0bed1b.chunk.js": "/dewasedimple/tictactoe.git/static/js/787.6b0bed1b.chunk.js",
+    "index.html": "/dewasedimple/tictactoe.git/index.html",
+    "main.93791221.css.map": "/dewasedimple/tictactoe.git/static/css/main.93791221.css.map",
+    "main.b292f51c.js.map": "/dewasedimple/tictactoe.git/static/js/main.b292f51c.js.map",
+    "787.6b0bed1b.chunk.js.map": "/dewasedimple/tictactoe.git/static/js/787.6b0bed1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93791221.css",
+    "static/js/main.b292f51c.js"
+  ]
+}
