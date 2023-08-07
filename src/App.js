@@ -5,7 +5,7 @@ import { useState } from 'react';
 
  function App() {
 
- const [ squares, setSquares] = useState(Array(9).fill(null));
+const [ squares, setSquares] = useState(Array(9).fill(null));
 const [xisNext, setXisnext ] = useState(true);
 
 function handleClick(i){
