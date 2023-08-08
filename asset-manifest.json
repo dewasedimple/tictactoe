@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dewasedimple/static/css/main.93791221.css",
-    "main.js": "/dewasedimple/static/js/main.4c25111a.js",
-    "static/js/787.6b0bed1b.chunk.js": "/dewasedimple/static/js/787.6b0bed1b.chunk.js",
-    "index.html": "/dewasedimple/index.html",
-    "main.93791221.css.map": "/dewasedimple/static/css/main.93791221.css.map",
-    "main.4c25111a.js.map": "/dewasedimple/static/js/main.4c25111a.js.map",
-    "787.6b0bed1b.chunk.js.map": "/dewasedimple/static/js/787.6b0bed1b.chunk.js.map"
+    "main.css": "/tictactoe/static/css/main.93791221.css",
+    "main.js": "/tictactoe/static/js/main.9b206b79.js",
+    "static/js/787.393238a3.chunk.js": "/tictactoe/static/js/787.393238a3.chunk.js",
+    "index.html": "/tictactoe/index.html",
+    "main.93791221.css.map": "/tictactoe/static/css/main.93791221.css.map",
+    "main.9b206b79.js.map": "/tictactoe/static/js/main.9b206b79.js.map",
+    "787.393238a3.chunk.js.map": "/tictactoe/static/js/787.393238a3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.93791221.css",
-    "static/js/main.4c25111a.js"
+    "static/js/main.9b206b79.js"
   ]
 }
